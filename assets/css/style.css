@@ -283,7 +283,7 @@ left: 320px}
 .single-about-img:before {
     position:  absolute;
     content: " ";
-    top: 200;
+    top: 600;
     left:  0;
     width: 10%;
     height:  10%;
@@ -298,9 +298,9 @@ left: 320px}
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 150px;
+    top: 341.5px;
     left: 305px;
-    width: 44%;
+    width: 43.7%;
     height: 90px;
     background: #1f2c6c;
 }
@@ -341,7 +341,7 @@ left: 320px}
     padding-top:  30px;
 }
 .education-horizontal-timeline {
-    padding: 10px;
+    padding-top: 50px;
 }
 
 /*.education-horizontal-timeline*/
